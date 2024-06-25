@@ -14,3 +14,4 @@ password = getpass.getpass("Enter your password: ")
 
 # Print out the username (but not the password for security reasons)
 print("Username:", username)
+print("name:")
